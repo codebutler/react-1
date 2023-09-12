@@ -52,7 +52,6 @@
   "files": [
     "dist",
     "src",
-    "!**/*/__test__",
     "!**/*/_category_.json"
   ],
   "scripts": {
